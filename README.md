@@ -16,3 +16,7 @@ Sudut pandang depan atas
 
 Sudut pandang belakang atas
 ![belakang_atas](https://user-images.githubusercontent.com/80946219/136019567-a348f833-6bdf-4d17-a152-d23308439a00.jpg)
+
+Hasil
+
+![animasi](https://user-images.githubusercontent.com/80946219/136036311-a1b2ee31-3014-4001-9899-d9bd08a7b393.gif)
