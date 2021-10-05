@@ -1,5 +1,4 @@
 # tugas-1-hanifaafauziah
-tugas-1-hanifaafauziah created by GitHub Classroom
 
 Hanifa Fauziah
 05111940000024
